@@ -1,0 +1,7 @@
+C:\Users\breno\source\repos\AtvHerança\AtvHerança\obj\Debug\AtvHerança.csprojAssemblyReference.cache
+C:\Users\breno\source\repos\AtvHerança\AtvHerança\obj\Debug\AtvHerança.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\AtvHerança\AtvHerança\bin\Debug\AtvHerança.exe.config
+C:\Users\breno\source\repos\AtvHerança\AtvHerança\bin\Debug\AtvHerança.exe
+C:\Users\breno\source\repos\AtvHerança\AtvHerança\bin\Debug\AtvHerança.pdb
+C:\Users\breno\source\repos\AtvHerança\AtvHerança\obj\Debug\AtvHerança.exe
+C:\Users\breno\source\repos\AtvHerança\AtvHerança\obj\Debug\AtvHerança.pdb
